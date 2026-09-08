@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:04,000
+Every building changes.
+
+2
+00:00:04,000 --> 00:00:07,000
+Every surface tells a story.
+
+3
+00:00:07,000 --> 00:00:10,000
+Not every change is easy to see.
+
+4
+00:00:10,000 --> 00:00:14,000
+Bring the inspection into a digital record.
+
+5
+00:00:14,000 --> 00:00:18,000
+Locate findings in their building context.
+
+6
+00:00:18,000 --> 00:00:23,000
+Review the record. Compare what changes.
+
+7
+00:00:23,000 --> 00:00:28,000
+Prepare the next maintenance conversation.
+
+8
+00:00:28,000 --> 00:00:33,500
+Inspekt AI. See what changes.
+
